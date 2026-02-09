@@ -1,5 +1,7 @@
 # Customer Segmentation & Retention Strategy with RFM | Retail Analytics (Python)
 
+![image alt](https://github.com/trnhokhai/Customer-Segmentation-Retention-Strategy-with-RFM-Retail-Analytics-Python-/blob/6f7d31cda5e1903b203a4d2953d000ddd8a36a28/background.png)
+
 ## What is this project about?
 This project applies the **RFM (Recency–Frequency–Monetary)** framework to analyze
 **4,338 customers** using **387,938 transactions** recorded between **December 2010
