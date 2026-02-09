@@ -35,6 +35,19 @@ The RFM (Recency–Frequency–Monetary) framework is a widely used, practical m
 to translate transactional data into **actionable customer segments** that support
 data-driven marketing and sales strategies.
 
+## 📑 Table of Contents
+
+- [🧭 Background & Overview](#background--overview)
+- [📂 Dataset Description & Data Structure](#2--dataset-description--data-structure)
+- [🧹 Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
+- [🧠 Analytical Approach](#analytical-approach)
+- [👥 Customer Segmentation Analysis](#customer-segmentation-analysis)
+- [🧩 Strategic Customer Grouping](#strategic-customer-grouping)
+- [📈 Visualization & Trend Analysis](#visualization--trend-analysis)
+- [💡 Insights & Business Recommendations](#9--insights--business-recommendations)
+- [🚀 Next Improvements & Extensions](#-next-improvements--extensions)
+
+
 ## Background & Overview
 This project analyzes historical transactional data from a retail business to
 segment customers based on their purchasing behavior.
