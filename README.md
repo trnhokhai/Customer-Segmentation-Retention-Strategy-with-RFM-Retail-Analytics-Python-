@@ -1,4 +1,4 @@
-# Customer Segmentation & Retention Strategy with RFM | Retail Analytics (Python)
+# Retail Demand Analytics & Fulfillment Strategy | Retail Analytics (Python)
 
 ![image alt](https://github.com/trnhokhai/Customer-Segmentation-Retention-Strategy-with-RFM-Retail-Analytics-Python-/blob/6f7d31cda5e1903b203a4d2953d000ddd8a36a28/background.png)
 
